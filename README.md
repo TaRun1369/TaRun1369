@@ -36,7 +36,7 @@ Student,<br>Interested in Things, Stuff that looks great and amazes me,<br>Fun F
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://letmememeitforyou.netlify.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TaRun1369&icon=5&color=1)](https://visitcount.itsvg.in)
